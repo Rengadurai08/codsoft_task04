@@ -3,6 +3,8 @@
 Project Overview - 
 Sales prediction involves using machine learning techniques in Python to forecast future product demand by analyzing factors like advertising expenditure, audience segmentation, and platform selection. Data scientists play a key role in this process, employing algorithms to interpret data and provide insights that guide businesses in making informed decisions. By accurately predicting sales, companies can optimize their advertising strategies, adjust budgets efficiently, and maximize their sales potential. Leveraging these data-driven insights helps businesses enhance performance and achieve better outcomes in a competitive market.
 
+![Firefly Sales Prediction Using Python 29873](https://github.com/user-attachments/assets/bb3e9f32-09f5-4258-8258-67b3a8a9722d)
+
 Objective -
 
 1.To utilize machine learning techniques in Python to analyze and
